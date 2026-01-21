@@ -47,7 +47,7 @@ Follow `Instructions.pdf` for the full requirements. In brief:
 - Plots:
   - Training/validation NLL vs epoch
   - $S(\pi)$ vs $\lambda$ and $dS/d\lambda$
-  - χ_B(λ) vs λ showing a peak near the transition
+  - $\chi_{B(\lambda)}$ vs $\lambda$ showing a peak near the transition
 
 ## Tips
 - Use periodic-translation data augmentation for PBCs (see checklist in `Instructions.pdf`).
